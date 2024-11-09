@@ -1,0 +1,10 @@
+# Exclude Visual Studio and build files
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.log
+*.pdb
+*.tmp
+*.ide
